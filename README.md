@@ -1,6 +1,5 @@
 # Kaggle San Francisco Crime Classification
 
-
 An end to end project to explore, visualize, and analyze San Francisco crime data and predict category of crime given temporal and spatial features.
 
 ## Installation
