@@ -2,7 +2,6 @@
 
 An end to end project to explore, visualize, and analyze San Francisco crime data and predict category of crime given temporal and spatial features.
 
-
 ## Installation
 All Python packages required for this project are located in the [requirements.txt](https://github.com/k-chuang/kaggle-sf-crime/blob/master/requirements.txt) and can be installed via the command below.
 
